@@ -2,4 +2,4 @@
 
 A repo for testing whether or not the Boomi Automate GitHub connector is functioning correctly.
 
-Change tally: 1 
+Change tally: 1 2
